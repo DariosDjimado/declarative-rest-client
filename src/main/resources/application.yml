@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: declarative-rest-client
+
+server:
+  port: 8091
